@@ -1,0 +1,22 @@
+{
+  "name": "solar-panel-backend",
+  "version": "1.0.0",
+  "description": "Backend for solar panel react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagarsutar007/solar-panel-backend.git"
+  },
+  "author": "Sagar Sutar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagarsutar007/solar-panel-backend/issues"
+  },
+  "homepage": "https://github.com/sagarsutar007/solar-panel-backend#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
